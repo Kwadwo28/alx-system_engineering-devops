@@ -12,3 +12,4 @@
 11-lists lists all files including hidden in current parent and boot directories
 12-file_type prints the type of file named iamafile
 13-symbolic_link creates a symbolic link
+14-copy_html copies all html files from current directory to parent directory
