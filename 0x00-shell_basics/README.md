@@ -16,3 +16,4 @@
 100-lets_move moves all files beginning with an uppercase letter
 101-clean_emacs deletes all files ending with ~
 creates directories welcome to and school
+103-commas lists all files and directories of the current directory
