@@ -9,3 +9,4 @@
 8-James_Bond gives all permissions to other users of the file hello
 9-John_Doe gives all permissions to owner read and execute to group owner and write and execute to other users of the file hello
 10-mirror_permissions sets the mode of the file hello the same as olleh
+11-directories_permissions gives permissions to directories
