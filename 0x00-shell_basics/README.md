@@ -17,3 +17,4 @@
 101-clean_emacs deletes all files ending with ~
 creates directories welcome to and school
 103-commas lists all files and directories of the current directory
+school.mgc creates a magic file
