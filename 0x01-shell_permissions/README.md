@@ -11,3 +11,4 @@
 10-mirror_permissions sets the mode of the file hello the same as olleh
 11-directories_permissions gives permissions to directories
 12-directory_permissions creates directory my_dir with permissions 751
+13-change_group changes the group owner to school for the file hello
