@@ -23,3 +23,4 @@
 22-users_and_homes displays all users and home directories based on etc/passwd
 100-empty_casks find all empty files and directories
 101-gifs lists all files with a .gif extension
+102-acrostic decodes acrostics using the first line
