@@ -24,3 +24,4 @@
 100-empty_casks find all empty files and directories
 101-gifs lists all files with a .gif extension
 102-acrostic decodes acrostics using the first line
+103-biggest_fan parses web servers logs in TSV format as inputs and displays the 11 hosts which did the most requests
